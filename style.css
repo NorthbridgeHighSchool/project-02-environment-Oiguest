@@ -1,0 +1,10 @@
+html {
+  background-color: rgb(124, 162, 119);
+  text-align: center;
+}
+
+img {
+  max-width: 300px;
+  border: 20px ridge rgb(143, 124, 90);
+  padding: 5px;
+}
