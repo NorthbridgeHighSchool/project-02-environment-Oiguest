@@ -4,51 +4,64 @@ html {
   background-color: rgb(124, 162, 119);
   text-align: center;
 }
+
 h1 {
   font-family: "Rajdhani", sans-serif;
   color: rgb(243, 209, 145);
 }
+
 h2 {
   font-family: "Xanh Mono", serif;
-  color: rgb(109, 96, 96);
+  color: rgb(243, 209, 145);
 }
+
 p {
   text-align: justify;
   font-family: "Big Shoulders Inline Display", sans-serif;
-  color: rgb(109, 96, 96);
+  color: rgb(243, 209, 145);
 }
+
 img {
   max-width: 300px;
   border: 20px ridge rgb(143, 124, 90);
   padding: 5px;
 }
+
 a:link {
   color: rgb(103, 103, 138);
   border: 5px ridge rgb(143, 124, 90);
 }
+
 a:visited {
   color: rgb(165, 104, 117);
   border: 5px ridge rgb(143, 124, 90);
 }
+
 a:hover {
   color: rgb(206, 140, 95)
 }
+
 a.current {
   color: rgb(174, 171, 100)
 }
+
 a:active {
   color: rgb(100, 119, 143)
 }
+
 ul {
   list-style-type: none;
 }
+
 li {
   margin-bottom: 20px;
 }
+
 .odd {
   float: right;
   margin-left: 15px;
 }
+
 .even {
   float: left;
   margin-right: 15px;
